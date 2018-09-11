@@ -17,4 +17,12 @@ public class Heure {
 			this.minutes = minutes ;
 		}
 	}
+	
+	public int getHeures() {
+		return heures;
+	}
+		
+	public int getMinutes() {
+		return minutes;
+	}
 }
